@@ -96,8 +96,9 @@ testwatermark
 -COPY LINK FROM DEPLOY REPLACE (ADD_YOUR_FORK_LINK) with your github repo link
 '''
 
+
 ## Deploy
-https://heroku.com/deploy?template=add_your_fork_link
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lusifernoob/lazyleech)
 
 ## Credits 📍
 
